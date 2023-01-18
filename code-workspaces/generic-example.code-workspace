@@ -1,0 +1,33 @@
+{
+    "folders": [
+        {
+            "name": "FOLDER_DISPLAY_NAME",
+            "path": "..\\RELATIVE\\PATH\\FROMTHISFILE\\FOLDER"
+        },
+        {
+            "name": "FOLDER_DISPLAY_NAME",
+            "path": "C:\\ABSOLUTE\\PATH\\FOLDER"
+        }
+    ],
+    "settings": {
+        "debug.console.fontSize": 11,
+        "editor.codeLens": false,
+        "editor.cursorStyle": "block-outline",
+        "editor.detectIndentation": false,
+        "editor.fontSize": 11,
+        "editor.formatOnPaste": true,
+        "editor.insertSpaces": true,
+        "editor.minimap.maxColumn": 80,
+        "editor.multiCursorModifier": "ctrlCmd",
+        "editor.rulers": [
+            120
+        ],
+        "[git-commit]": {
+            "editor.rulers": [
+                72
+            ]
+        },
+        "editor.tabSize": 4,
+        "editor.wordWrap": "on"
+    }
+}

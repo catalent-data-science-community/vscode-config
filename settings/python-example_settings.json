@@ -1,0 +1,47 @@
+{
+    "debug.console.fontSize": 11,
+    "editor.cursorStyle": "block-outline",
+    "editor.detectIndentation": false,
+    "editor.fontSize": 11,
+    "editor.formatOnPaste": true,
+    "editor.insertSpaces": true,
+    "editor.minimap.maxColumn": 80,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.rulers": [
+        120
+    ],
+    "[git-commit]": {
+        "editor.rulers": [
+            72
+        ]
+    },
+    "[python]": {
+        "editor.rulers": [
+            79
+        ]
+    },
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "jupyter.jupyterServerType": "local",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylamaEnabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "C:\\ABSOLUTE\\PATH\\CONDA_ENV\\python.exe",
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.inheritEnv": false,
+    "workbench.colorTheme": "INSTALLED_THEME_EXTENSION_NAME",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "INSTALLED_ICONS_EXTENSION_NAME",
+    "workbench.sideBar.location": "left",
+    "workbench.startupEditor": "welcomePageInEmptyWorkbench"
+}

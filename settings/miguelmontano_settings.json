@@ -1,0 +1,106 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "azureML - Remote.telemetry": false,
+    "azure-pipelines.customSchemaFile": "C:\\Users\\miguel.montano\\OneDrive - Catalent\\Workspace\\vscode\\yamlschema.json",
+    "databricks.connections": [
+        {
+            "apiRootUrl": "https://adb-4761462410666983.3.azuredatabricks.net",
+            "displayName": "North Star Development",
+            "localSyncFolder": "C:\\Users\\miguel.montano\\OneDrive - Catalent\\Workspace\\databricks\\dev",
+            "personalAccessTokenSecure": {
+                "keyTarSettingName": "North Star Development-API-Token"
+            }
+        }
+    ],
+    "databricks.connection.default.exportFormats": {
+        "Scala": ".scala",
+        "Python": ".py",
+        "SQL": ".sql",
+        "R": ".r"
+    },
+    "databricks.lastActiveConnection": "North Star Development",
+    "databricks.connection.default.useCodeCells": true,
+    "debug.console.fontSize": 11,
+    "docker-explorer.enableTelemetry": false,
+    "editor.codeLens": false,
+    "editor.cursorStyle": "block-outline",
+    "editor.detectIndentation": false,
+    "editor.fontSize": 11,
+    "editor.formatOnPaste": true,
+    "editor.insertSpaces": true,
+    "editor.minimap.maxColumn": 80,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.rulers": [
+        120
+    ],
+    "[git-commit]": {
+        "editor.rulers": [
+            72
+        ]
+    },
+    "[python]": {
+        "editor.rulers": [
+            79
+        ]
+    },
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.views.repositories.compact": true,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "gitlens.hovers.enabled": false,
+    "jupyter.jupyterServerType": "local",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "projectManager.any.baseFolders": [
+        "vscode-remote://wsl+Ubuntu-20.04/home/miguelmontano/workspace/repos"
+    ],
+    "projectManager.git.baseFolders": [
+        "vscode-remote://wsl+Ubuntu-20.04/home/miguelmontano/workspace/repos"
+    ],
+    "projectManager.groupList": true,
+    "projectManager.ignoreProjectsWithinProjects": true,
+    "projectManager.sortList": "Recent",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylamaEnabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "C:\\Users\\miguel.montano\\az_base\\python.exe",
+    "redhat.telemetry.enabled": false,
+    "restoreTerminals.artificialDelayMilliseconds": 300,
+    "restoreTerminals.keepExistingTerminalsOpen":false,
+    "restoreTerminals.runOnStartup": true,
+    "restoreTerminals.terminals": [
+        {
+            "splitTerminals": [
+                {
+                    "name": "git bash",
+                    "commands": ["& \"C:\\Program Files\\Git\\bin\\bash.exe\" --login"]
+                },
+                {
+                    "name": "wsl bash",
+                    "commands": ["wsl -- htop","wsl -- nnn -dH", "wsl"]
+                }
+            ]
+        }
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.inheritEnv": false,
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "readme"
+}

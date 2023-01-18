@@ -1,0 +1,8 @@
+*
+!*/
+!/code-workspaces/**
+!/config-templates/**
+!/settings/**
+!*.md
+!.gitattributes
+!.gitignore

@@ -1,0 +1,71 @@
+{
+    "azure-pipelines.customSchemaFile": "/home/miguelmontano/workspace/vscode/yamlschema.json",
+    "debug.console.fontSize": 11,
+    "docker-explorer.enableTelemetry": false,
+    "editor.codeLens": false,
+    "editor.cursorStyle": "block-outline",
+    "editor.detectIndentation": false,
+    "editor.fontSize": 11,
+    "editor.formatOnPaste": true,
+    "editor.insertSpaces": true,
+    "editor.minimap.maxColumn": 80,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.rulers": [
+        120
+    ],
+    "[git-commit]": {
+        "editor.rulers": [
+            72
+        ]
+    },
+    "[python]": {
+        "editor.rulers": [
+            79
+        ]
+    },
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.views.repositories.compact": true,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "gitlens.hovers.enabled": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylamaEnabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "/home/miguelmontano/az_base/bin/python",
+    "restoreTerminals.artificialDelayMilliseconds": 300,
+    "restoreTerminals.keepExistingTerminalsOpen":false,
+    "restoreTerminals.runOnStartup": true,
+    "restoreTerminals.terminals": [
+        {
+            "splitTerminals": [
+                {
+                    "name": "htop",
+                    "commands": ["htop"]
+                },
+                {
+                    "name": "workspace",
+                    "commands": ["nnn -dH"]
+                }
+            ]
+        }
+    ],
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.cwd": "/home/miguelmontano/workspace",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "readme"
+}

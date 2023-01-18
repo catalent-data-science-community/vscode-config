@@ -1,0 +1,26 @@
+[
+    {
+        "name": "CODE WORKSPACE DISPLAY NAME",
+        "rootPath": "C:\\ABSOLUTE\\PATH\\FOLDER\\CONFIGURATION_FILE.code-workspace",
+        "tags": [
+            "TAG NAME"
+        ],
+        "enabled": true
+    },
+	{
+        "name": "FOLDER DISPLAY NAME",
+        "rootPath": "C:\\ABSOLUTE\\PATH\\FOLDER",
+        "tags": [
+            "TAG NAME"
+        ],
+        "enabled": true
+    },
+    {
+        "name": "WSL FOLDER DISPLAY NAME",
+        "rootPath": "vscode-remote://wsl+DISTRO_NAME/ABSOLUTE/PATH/FOLDER",
+        "tags": [
+            "TAG NAME"
+        ],
+        "enabled": true
+    }
+]
